@@ -7,7 +7,7 @@ A simple and elegant **Java-based Weather Application** that fetches and display
 ## Features
 
 - 🌎 Search weather by city name
-- 📊 Display temperature, humidity, and weather conditions
+- 📊 Display temperature and weather conditions
 - ☀️ Clean and user-friendly GUI
 - ⚡ Fast and responsive
 - 🛠️ Built using Java, Struts, and MVC pattern
